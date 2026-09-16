@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29591879-24f3-4261-8480-54fd0a5a4114">
+  <name>ПрактикаОптоваяТорговля</name>
+  <synonym>
+    <key>ru</key>
+    <value>ПрактикаОптоваяТорговля</value>
+  </synonym>
+  <comment>ПрактикаОптоваяТорговля</comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="966a0fcb-fce4-4411-8480-fa693e721141"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cd19d95b-2a07-4d97-9441-48c5f5ad7c55"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0c437efe-9924-47fa-9682-9ce159b9cf06"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="a42a266a-90bf-499d-a5a3-921e4bed1f6a"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="865295e8-d48e-4857-95f8-6c0eee01b50e"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="27368e69-0d4f-48bc-ac6c-e9a7f0ead27f"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="6cc8d610-a4bd-42c4-b213-d5dfcc22519f"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.0</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <copyright>
+    <key>ru</key>
+    <value>Брусенцов Егор ПИ-242</value>
+  </copyright>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.5.1</compatibilityMode>
+  <languages uuid="97b31c8d-f5ed-4637-b32d-8e824da6fe94">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
