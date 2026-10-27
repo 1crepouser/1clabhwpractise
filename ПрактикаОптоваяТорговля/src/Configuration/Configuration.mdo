@@ -44,4 +44,14 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.ДоговорКонтрагента</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Наименование</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <documents>Document.Покупка</documents>
+  <documents>Document.Продажа</documents>
+  <enums>Enum.ВидыДоговоров</enums>
+  <reports>Report.Продажи</reports>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТовара</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
 </mdclass:Configuration>
