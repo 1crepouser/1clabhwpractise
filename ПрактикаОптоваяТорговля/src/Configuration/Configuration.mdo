@@ -60,10 +60,13 @@
   <roles>Role.СохранениеДанныхВывод</roles>
   <roles>Role.ЧтениеНСИ</roles>
   <commonModules>CommonModule.Пользователи</commonModules>
+  <functionalOptions>FunctionalOption.ПоказыватьСклады</functionalOptions>
+  <constants>Constant.УчетПоСкладам</constants>
   <catalogs>Catalog.ДоговорКонтрагента</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Наименование</catalogs>
   <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.Покупка</documents>
   <documents>Document.Продажа</documents>

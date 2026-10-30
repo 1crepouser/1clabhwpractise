@@ -11,4 +11,5 @@
   <content>Catalog.Контрагенты</content>
   <content>Catalog.Наименование</content>
   <content>Catalog.Организации</content>
+  <content>Catalog.Склады</content>
 </mdclass:Subsystem>

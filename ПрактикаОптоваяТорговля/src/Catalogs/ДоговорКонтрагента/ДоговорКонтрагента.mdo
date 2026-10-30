@@ -10,7 +10,7 @@
   <name>ДоговорКонтрагента</name>
   <synonym>
     <key>ru</key>
-    <value>Договор контрагента</value>
+    <value>Договоры контрагентов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ДоговорКонтрагента.StandardAttribute.Code</inputByString>

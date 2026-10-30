@@ -10,7 +10,7 @@
   <name>Наименование</name>
   <synonym>
     <key>ru</key>
-    <value>Папка</value>
+    <value>Номенклатура</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Наименование.StandardAttribute.Code</inputByString>
